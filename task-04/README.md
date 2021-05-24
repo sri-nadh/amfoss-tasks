@@ -1,0 +1,1 @@
+Debugging Derbies was an easy task.There were syntax errors and some other errors too. Also there was a change in name of a label(Questionlabel).Other than that code was correct and in this process i happen to learn about java language.
