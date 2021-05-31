@@ -1,9 +1,7 @@
 
-# Task 05
 ## Rustic Scraper
+This task was very time consuming, since i had to learn the rust language from scratch. refernce materials was very useful , it made the process a bit easy.
 
-I finshed this at the last time.<br>
-https://docs.rs/csv/1.0.0-beta.2/csv/struct.Writer.html and some stackoverflow articles helped me a lot along with resource given.<br>
 
 Datas obtained:
 
