@@ -10,5 +10,5 @@ So to overcome that i tried to use
 ```
 in the loop <br>
 so that i would get atmost 30 repo/page and what i did to stop the loop was if the len(repo) becomes zero, the loop will be terminated.<br>
-Then i appended the reponames to a list and after exiting the lopp , i used an another loop to get commits using perceval. 
+Then i appended the reponames to a list and after exiting the loop , i used an another loop to get commits using perceval. 
 
