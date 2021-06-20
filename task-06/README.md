@@ -5,6 +5,6 @@ https://golang.org/doc/install <br>
 At first i followed two authentication for two packages but it was confusing , so finally i decided to stick with the first package.<br>
 Then I decided to look into files in github for knowing how certain functions were build.<br>
 I also referred https://github.com/vartanbeno/go-reddit/blob/master/reddit/subreddit.go.<br>
-So i was able to extract first search results. 
+So i was able to extract first search results.
 
                                                                                                             
