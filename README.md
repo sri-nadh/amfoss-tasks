@@ -9,7 +9,7 @@
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-04">Task-04</a> | Debugging Derbies | Done |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-05">Task-05</a> | Rustic Scraper | Done |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-06">Task-06</a> | GEDDIT  | Done |
-| <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-07">Task-07</a> | Ubiquitious UI | Done |
+| <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-07">Task-07</a> | Ubiquitious UI | PENDING |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-08">Task-08</a> | Sir Perceval’s quest | Done |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-09">Task-09</a> | Spammer_Spaghetti | Done |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-10">Task-10</a> | CS50 | PENDING |
